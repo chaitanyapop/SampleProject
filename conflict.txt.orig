@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+int a,f;
+c=a+f;
+if d>a:
+	print("hello world")
+=======
+int a,b;
+d=a+b;
+if d>a:
+	print("world world")
+>>>>>>> 8234a3f (conflict.txt)
+else:
+	print("hello hello")
+	
