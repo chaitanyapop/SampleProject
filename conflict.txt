@@ -1,6 +1,6 @@
-int a,b;
-c=a+b;
-if c>a:
+int a,f;
+c=a+f;
+if d>a:
 	print("hello world")
 else:
 	print("world hello")
